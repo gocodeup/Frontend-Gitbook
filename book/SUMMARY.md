@@ -70,7 +70,7 @@
         * [Basic Effects](content/jquery/effects/basic-effects.md)
         * [Fading](content/jquery/effects/fading.md)
         * [Sliding](content/jquery/effects/sliding.md)
-    * [Simple Simon Game](content/jquery/create-game.md)
+    * [Simple Simon Game](content/jquery/simple-simon/create-game.md)
     * [Ajax Requests](content/jquery/ajax/README.md)
         * [Ajax Intro](content/jquery/ajax/ajax-intro.md)
         * [Ajax API Request](content/jquery/ajax/ajax-api-request.md)
