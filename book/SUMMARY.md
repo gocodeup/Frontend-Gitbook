@@ -53,7 +53,7 @@
         * [Iterating](content/javascript/arrays/iterating.md)
         * [Manipulating](content/javascript/arrays/manipulating.md)
         * [Split Join](content/javascript/arrays/split-join.md)
-    * [Objects](content/javascript/objects/intro.md)
+    * [Objects](content/javascript/objects/index.md)
         * [JSON](content/javascript/objects/json.md)
         * [Math](content/javascript/objects/math.md)
     * [BOM and DOM](content/javascript/bom-and-dom/bom.md)
