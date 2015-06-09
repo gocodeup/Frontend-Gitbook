@@ -92,7 +92,7 @@
     * [Foreach](content/php_ii/control-structures-ii/foreach.md)
     * [Foreach with Keys](content/php_ii/control-structures-ii/foreach-with-keys.md)
     * [Functions](content/php_ii/functions-i/definition-and-syntax.md)
-    * [PHP and HTML](content/frontend-php/index.md)
+    * [PHP and HTML](content/php_iii/php-with-html/index.md)
     * [Alternative Syntax](content/php_iii/php-with-html/alternative-syntax.md)
     * [Include and Require](content/frontend-php/include-require.md)    
 * [Wordpress](content/wordpress/index.md)
