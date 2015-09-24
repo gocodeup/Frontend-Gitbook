@@ -1,13 +1,6 @@
 {
     "name": "Codeup-Frontend-Gitbook",
     "description": "Class material for students going through the Codeup Frontend Bootcamp",
-    "dependencies": {
-        "gitbook": "^1.0.0",
-        "gitbook-plugin-anchors": "^0.4",
-        "gitbook-plugin-jsbin": "^0.0.12",
-        "gitbook-plugin-scrollablecode": "^0.1",
-        "gitbook-plugin-toggle-chapters": "^0.0.1"
-    },
     "repository": {
         "type": "git",
         "url": "https://github.com/gocodeup/Frontend-Gitbook.git"
