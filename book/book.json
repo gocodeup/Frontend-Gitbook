@@ -22,5 +22,8 @@
     },
     "variables": {
         "curriculumName": "frontend"
+    },
+    "search": {
+        "maxIndexSize": 1000000000
     }
 }
