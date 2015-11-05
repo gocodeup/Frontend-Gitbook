@@ -23,7 +23,7 @@
     * [Adding Files](content/git/adding-files.md)
     * [Committing](content/git/committing.md)
     * [Pushing and Pulling](content/git/pushing-and-pulling.md)
-    * [Gitignore File](content/git/gitignore-file.md)
+    * [Ignoring File](content/git/gitignore-file.md)
 * [CSS](content/html-css/css-i/index.md)
     * [Basic Selectors](content/html-css/css-i/basic-selectors.md)
     * [Basic Properties](content/html-css/css-i/basic-properties.md)
