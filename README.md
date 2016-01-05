@@ -2,7 +2,7 @@
 
 This Gitbook serves as the curriculum application for our Frontend Night Bootcamp.
 
-![Codeship Status](https://codeship.com/projects/1865c6b0-bab8-0132-aa3a-463450aa6c55/status?branch=master)
+[![Codeship Status for gocodeup/Frontend-Gitbook](https://codeship.com/projects/769fee80-95ff-0133-03bc-3e79f15ecc1c/status?branch=production)](https://codeship.com/projects/125368)
 
 ## Initial Setup
 
